@@ -62,12 +62,14 @@ ul .nav-item {
 
 @media (max-width:667px) {
   .name-row {
-    padding-top: 5rem;
-    padding: 2rem;
+    
+    padding: 0.1rem 2rem;
     
   }
 
-  
+  .name-con h2 h1 {
+    font-size: 1rem;
+  }
 }
 
 
